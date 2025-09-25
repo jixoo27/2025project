@@ -1,7 +1,7 @@
 plotly
 folium
-streamlit-folium
 koreanize-matplotlib
+streamlit-folium
 
 streamlit
 pandas
